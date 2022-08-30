@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Propietario.h"
 
-//FIXME Agregue todo lo que necesite para dar respuesta a la solicitud del enunciado
+//FIXME Agregue todo lo que necesite para dar respuesta a la solicitud del enunciado para dar respuesta.
 
 Propietario::Propietario() {
     this->idProp = 0;
