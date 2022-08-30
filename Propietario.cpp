@@ -6,7 +6,7 @@
 Propietario::Propietario() {
     this->idProp = 0;
     this->nombreProp = "";
-    this->email2 = "";
+    this->email = "";
     this->telefono = "";
 }
 
