@@ -41,9 +41,9 @@ public:
 
     void setPeso(double peso);
 
-    double getIdMasc() const;
+    long getIdMasc() const;
 
-    void setIdMasc(double idMasc);
+    void setIdMasc(long idMasc);
 
     void mostrarDatosMascota();
 };
