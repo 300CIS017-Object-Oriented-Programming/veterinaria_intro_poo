@@ -21,7 +21,6 @@ using std::vector;
 class Veterinaria {
 private:
     vector<Propietario *> propietarios;
-
     void inicializarDatos(); // Útil para iniciar el sistema con datos de prueba
 public:
     //Constructores
