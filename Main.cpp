@@ -11,7 +11,7 @@ void menu(Veterinaria &veterinaria) {
         cout << "\n" << "BIENVENIDOS Al parcial de VETERINARIA\n";
         cout << "1. Agregar propietario \n";
         cout << "0. Salir\n";
-        cout << "opc: ";
+        cout << "opc: \n";
         cin >> opc;
         cout << "\n";
         switch (opc) {
